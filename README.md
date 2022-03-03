@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+![Full mandlebrot set using wikipedia's modulus colouring](demo.jpg)
 
 <!--
 **cosmobobak/cosmobobak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
