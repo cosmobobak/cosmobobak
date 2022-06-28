@@ -1,5 +1,12 @@
 ### Hi there!
 
+```rust
+// first of all,
+magic::initialise();
+// ahh, feels better already.
+// now, let's begin...
+```
+
 ![Full mandlebrot set using wikipedia's modulus colouring](demo.jpg)
 
 <!--
