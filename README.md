@@ -1,5 +1,3 @@
-### Hi there!
-
 ```rust
 // first of all,
 magic::initialise();
