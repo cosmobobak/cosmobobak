@@ -1,23 +1,11 @@
-```rust
-// first of all,
-magic::initialise();
-// ahh, feels better already.
-// now, let's begin...
-```
+## Hi! I'm Cosmo, the author of [the UK's strongest chess program](https://github.com/cosmobobak/viridithas).
+I'm interested in chess, reinforcement learning, neural networks, machine learning more generally, and I'm a big fan of the Rust programming language.
 
-![Full mandlebrot set using wikipedia's modulus colouring](demo.jpg)
-
-<!--
-**cosmobobak/cosmobobak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'd recommend you check out some of my favourite projects:
+- first and foremost, [Viridithas](https://github.com/cosmobobak/viridithas), my chess-playing program, which competes at the Top Chess Engine Competition and chess.com's Computer Chess Championship, and places highly on many public rating lists, such as
+  - The Computer Chess Rating List ([40/15](https://www.computerchess.org.uk/ccrl/4040/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list), [Blitz](https://www.computerchess.org.uk/ccrl/404/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list), and [Chess960](https://www.computerchess.org.uk/ccrl/404FRC/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list))
+  - [Stefan Pohl's Computer Chess](https://www.sp-cc.de/)
+  - [Ipmanchess](https://ipmanchess.yolasite.com/r9-7945hx.php)
+- [iridium-oxide](https://github.com/cosmobobak/iridium-oxide), a general game playing program (GGP) using Monte-Carlo Tree Search.
+- [rustbrot](https://github.com/cosmobobak/rustbrot), a mandlebrot set renderer using Rust's support for easy bug-free multithreading.
+- my [variable-size sudoku solver](https://github.com/cosmobobak/rust-sudoku) which can solve 4x4, 9x9, 16x16, and 25x25 sudokus.
