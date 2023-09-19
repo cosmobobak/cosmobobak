@@ -2,7 +2,7 @@
 I'm interested in chess, reinforcement learning, neural networks, machine learning more generally, and I'm a big fan of the Rust programming language.
 
 I'd recommend you check out some of my favourite projects:
-- first and foremost, [Viridithas](https://github.com/cosmobobak/viridithas), my chess-playing program, which competes at the Top Chess Engine Competition and chess.com's Computer Chess Championship, and places highly on many public rating lists, such as
+- first and foremost, [Viridithas](https://github.com/cosmobobak/viridithas), my chess-playing program, which competes at the [Top Chess Engine Competition](https://tcec-chess.com/) and chess.com's [Computer Chess Championship](https://www.chess.com/computer-chess-championship), and places highly on many public rating lists, such as
   - The Computer Chess Rating List ([40/15](https://www.computerchess.org.uk/ccrl/4040/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list), [Blitz](https://www.computerchess.org.uk/ccrl/404/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list), and [Chess960](https://www.computerchess.org.uk/ccrl/404FRC/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list))
   - [Stefan Pohl's Computer Chess](https://www.sp-cc.de/)
   - [Ipmanchess](https://ipmanchess.yolasite.com/r9-7945hx.php)
