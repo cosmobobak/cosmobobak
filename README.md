@@ -9,3 +9,4 @@ I'd recommend you check out some of my favourite projects:
 - [iridium-oxide](https://github.com/cosmobobak/iridium-oxide), a general game playing program (GGP) using Monte-Carlo Tree Search.
 - [rustbrot](https://github.com/cosmobobak/rustbrot), a mandlebrot set renderer using Rust's support for easy bug-free multithreading.
 - my [variable-size sudoku solver](https://github.com/cosmobobak/rust-sudoku) which can solve 4x4, 9x9, 16x16, and 25x25 sudokus.
+- [wikipath](https://github.com/cosmobobak/wikipath), a program that plays the Wikipedia Speedrun game, using levenshtein distance and word2vec cosine similarity.
