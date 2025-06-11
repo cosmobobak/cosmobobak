@@ -1,4 +1,4 @@
-## Hi! I'm Cosmo, the author of [the UK's strongest chess program](https://github.com/cosmobobak/viridithas).
+## Hi! I'm Cosmo, the author of [a very strong chess program in Rust](https://github.com/cosmobobak/viridithas).
 I'm interested in chess, reinforcement learning, neural networks, machine learning more generally, and I'm a big fan of the Rust programming language.
 
 I'd recommend you check out some of my favourite projects:
